@@ -1,0 +1,14 @@
+*{
+    margin: 20px 40px;
+  
+}
+.cont{
+    font-weight: 700;
+}
+
+.cembeddedcode{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    overflow: auto;
+    padding: 23px;
+}
